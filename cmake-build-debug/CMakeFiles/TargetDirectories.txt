@@ -1,0 +1,3 @@
+C:/Users/voron/CLionProjects/TaskCheckingSystem/cmake-build-debug/CMakeFiles/TaskCheckingSystem.dir
+C:/Users/voron/CLionProjects/TaskCheckingSystem/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/voron/CLionProjects/TaskCheckingSystem/cmake-build-debug/CMakeFiles/rebuild_cache.dir

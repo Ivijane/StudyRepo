@@ -1,0 +1,12 @@
+# ninja log v5
+23	1493	6899109363881345	CMakeFiles/TaskCheckingSystem.dir/main.cpp.obj	70e6cb1182884431
+1494	1750	6899109366417731	TaskCheckingSystem.exe	e6ffbbdf71135dbe
+20	1025	6900544235395877	CMakeFiles/TaskCheckingSystem.dir/main.cpp.obj	70e6cb1182884431
+13	1038	6900558294977128	CMakeFiles/TaskCheckingSystem.dir/authorization.cpp.obj	d6c442e3366b0e3d
+7	1042	6900558295022239	CMakeFiles/TaskCheckingSystem.dir/main.cpp.obj	70e6cb1182884431
+1042	1424	6900558298801436	TaskCheckingSystem.exe	1c915b6ea2733e12
+6	879	6900558827881558	CMakeFiles/TaskCheckingSystem.dir/main.cpp.obj	70e6cb1182884431
+880	1059	6900558829616238	TaskCheckingSystem.exe	1c915b6ea2733e12
+17	691	6900596649511892	CMakeFiles/TaskCheckingSystem.dir/main.cpp.obj	70e6cb1182884431
+24	759	6900596650191893	CMakeFiles/TaskCheckingSystem.dir/authorization.cpp.obj	d6c442e3366b0e3d
+759	1065	6900596653223766	TaskCheckingSystem.exe	1c915b6ea2733e12
